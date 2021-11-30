@@ -69,3 +69,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+/netcoreapp2.2/*
+/netcoreapp2.2/
+/Landlords_Server01/Bin/netcoreapp2.2/
+/Landlords_Server01/Bin/netcoreapp2.2/*
+
+MongoDB.Driver.dll
