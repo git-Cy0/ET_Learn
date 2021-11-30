@@ -1,0 +1,11 @@
+F:\projectUnity\Landlords_Client01\Proto\Proto2CS.deps.json
+F:\projectUnity\Landlords_Client01\Proto\Proto2CS.runtimeconfig.json
+F:\projectUnity\Landlords_Client01\Proto\Proto2CS.runtimeconfig.dev.json
+F:\projectUnity\Landlords_Client01\Proto\Proto2CS.dll
+F:\projectUnity\Landlords_Client01\Proto\Proto2CS.pdb
+F:\projectUnity\Landlords_Client01\Tools\Proto2CS\obj\Release\Proto2CS.AssemblyInfoInputs.cache
+F:\projectUnity\Landlords_Client01\Tools\Proto2CS\obj\Release\Proto2CS.AssemblyInfo.cs
+F:\projectUnity\Landlords_Client01\Tools\Proto2CS\obj\Release\Proto2CS.csproj.CoreCompileInputs.cache
+F:\projectUnity\Landlords_Client01\Tools\Proto2CS\obj\Release\Proto2CS.dll
+F:\projectUnity\Landlords_Client01\Tools\Proto2CS\obj\Release\Proto2CS.pdb
+F:\projectUnity\Landlords_Client01\Tools\Proto2CS\obj\Release\Proto2CS.genruntimeconfig.cache
