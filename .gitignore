@@ -70,10 +70,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# new编译 生成
+/Landlords_Server01/Bin/
+Debug/
+# 服务端运行日志
+/Landlords_Server01/Logs/
 
-/netcoreapp2.2/*
-/netcoreapp2.2/
-/Landlords_Server01/Bin/netcoreapp2.2/
-/Landlords_Server01/Bin/netcoreapp2.2/*
-
-MongoDB.Driver.dll
