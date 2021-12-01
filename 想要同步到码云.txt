@@ -4,3 +4,14 @@
 里面设置 github 的git地址
 
 3.进gitee 项目名旁边 点圈圈 强制同步
+
+github 速度太慢  的尝试 方案 使用代理
+只对GitHub进行代理
+git config --global http.https://github.com.proxy https://127.0.0.1:1080
+git config --global https.https://github.com.proxy https://127.0.0.1:1080
+sock5代理设置
+git config --global http.https://github.com.proxy socks5://127.0.0.1:1086
+git config --global https.https://github.com.proxy socks5://127.0.0.1:1086
+取消代理
+git config --global --unset http.proxy
+git config --global --unset https.proxy
